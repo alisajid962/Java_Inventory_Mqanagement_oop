@@ -1,3 +1,4 @@
+//RECOMMENDED ON VS CODE
 package pack;
 import java.util.Scanner;
 public class Login {
