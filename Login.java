@@ -38,42 +38,4 @@ public class Login {
     }
 
 }
-// class simple{
-// public static void main(Strings[]args){
-//     protected double num1;
-//     protected double num2;
-//     simple(){
 
-//     }
-
-// simple()
-
-
-
-// }
-// simple(double x,double y){
-//     num1 =x;
-//     num2=y;
-// }
-// void addition(){
-//     sout(num1+num2)
-// }
-// void multiply(){
-//     sout(num1*num2)
-
-// }
-
-
-// class verifiedsimple extends simple{
-//     verified simple(){
-
-//     }
-//     verifiedsimple (double a,double b){
-//         super(a,b);
-//     }
-// }
-
-
-
-
-// }
