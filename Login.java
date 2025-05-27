@@ -25,6 +25,8 @@ public class Login {
         // Validate login
         if (admin.login(inputUsername, inputPassword)) {
             System.out.println("✅ Login successful! Welcome, " + inputUsername + ".");
+            new admin();
+            
         } else {
             System.out.println("❌ Invalid username or password.");
         }
